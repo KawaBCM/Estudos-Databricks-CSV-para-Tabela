@@ -11,3 +11,5 @@ Persistência como tabela física em formato Delta Lake
 Consulta dos dados via SQL
 Criação e organização de schemas no Databricks
 Limpeza do ambiente ao final do estudo
+
+(Todos os dados neste projeto são fictícios, apenas para fins de treinamento e pratica.)
